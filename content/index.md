@@ -1,10 +1,10 @@
 ---
 title: Elliot Quiriconi
 publish: true
-temps: 3
+temps: 10
 ---
 
-![[profile.jpg|100]]
+![[profile.jpg|115]]
 
 Bonjour ! Je suis doctorant en sciences de gestion à l'Université Paris-Dauphine – PSL (DRM), en collaboration avec l'INERIS (Institut National de l'Environnement Industriel et des Risques), où je travaille sur les risques NaTech — accidents industriels déclenchés par des phénomènes naturels.
 
