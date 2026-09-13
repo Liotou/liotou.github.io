@@ -1,5 +1,5 @@
 ---
-temps: 9
+temps: 12
 publish: true
 ---
 Co-écrit avec mon vieil ami Théo Neil Clavel.
@@ -49,3 +49,6 @@ Comme nous le disions plus tôt, c'est ce qui permet à cette radio de réunir, 
 On pourrait également relire ce phénomène à la lumière de l'hantologie, cette notion empruntée à Jacques Derrida et redéployée par le critique Mark Fisher pour décrire une culture hantée par des futurs qu'elle n'a jamais atteints. Radio Giscard ne ressuscite pas seulement une décennie : elle fait revivre l'idée d'un avenir tel qu'on se le représentait alors, Concorde, Minitel, centrales nucléaires, projet Cyclades, un futur suspendu, jamais tout à fait advenu, que l'IA nous permet aujourd'hui de visiter comme un décor.
 
 Preuve en est que ce mouvement, qui comptait déjà quelques adeptes sous l'appellation « Giscard Punk » (que l'on peut généraliser en « Cassette Punk »), semble aujourd'hui prendre de l'ampleur. D'autant que l'année 2026 connaît un léger sursaut patriotique et républicain, porté par la Coupe du monde et le succès presque inespéré des deux films consacrés au Général De Gaulle.
+
+Mon épisode préféré de Radio Giscard :
+https://www.youtube.com/watch?v=2gPJTbPTCsg&list=RD2gPJTbPTCsg&start_radio=1
