@@ -11,4 +11,11 @@ publish: true
 
 Voir aussi mon profil sur [HAL](https://hal.science/search/index/?q=*&authIdHal_s=elliot-quiriconi).
 
+---
+
+## Publications personnelles non revues par les pairs
+
+- [[Étude des descriptions textuelles sur Hinge|Étude des descriptions textuelles sur Hinge et comparaison des genres chez les utilisateurs hétérosexuels (hommes / femmes)]] (en cours)
+- [[Les Radios président]]
+
 [[index|← Retour à l'accueil]]

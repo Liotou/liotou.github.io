@@ -15,5 +15,4 @@ Mes travaux portent sur la gestion des risques industriels face aux aléas natur
 ## Navigation
 
 - [[Publications]]
-- [[Étude des descriptions textuelles sur Hinge|Articles]]
 - [[Contact]]
