@@ -1,5 +1,7 @@
 ---
 title: Elliot Quiriconi
+publish: true
+temps: 3
 ---
 
 ![[profile.jpg|100]]

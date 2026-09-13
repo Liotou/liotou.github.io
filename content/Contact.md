@@ -1,5 +1,6 @@
 ---
 title: Contact
+publish: true
 ---
 
 - Email : [elliot.quiriconi@dauphine.psl.eu](mailto:elliot.quiriconi@dauphine.psl.eu)

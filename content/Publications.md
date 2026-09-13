@@ -1,5 +1,6 @@
 ---
 title: Publications
+publish: true
 ---
 
 - **Quiriconi E.**, Adrot A., Mazri C.
