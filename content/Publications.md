@@ -1,6 +1,7 @@
 ---
 title: Publications
 publish: true
+temps: 1
 ---
 ## Publications scientifiques (revues par les pairs)
 
@@ -16,7 +17,7 @@ Voir aussi mon profil sur [HAL](https://hal.science/search/index/?q=*&authIdHal_
 
 ## Éditos personnels (non-revues par les pairs)
 
-- [[Étude des descriptions textuelles sur Hinge|Étude des descriptions textuelles sur Hinge et comparaison des genres chez les utilisateurs hétérosexuels (hommes / femmes)]] (en cours)
+- [Étude des descriptions textuelles sur Hinge et comparaison des genres chez les utilisateurs hétérosexuels — hommes / femmes](Articles/Étude%20des%20descriptions%20textuelles%20sur%20Hinge) (en cours)
 - [[Les Radios président]]
 
 [[index|← Retour à l'accueil]]

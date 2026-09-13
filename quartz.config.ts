@@ -68,7 +68,10 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      // prettyLinks: false — sinon Quartz applique path.basename() au texte de
+      // TOUT lien interne (bug amont : ça coupe au dernier "/", y compris
+      // quand "/" n'est qu'un mot dans une phrase, ex. "hommes / femmes").
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: false }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
