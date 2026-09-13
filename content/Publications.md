@@ -2,6 +2,7 @@
 title: Publications
 publish: true
 ---
+## Publications scientifiques (revues par les pairs)
 
 - **Quiriconi E.**, Adrot A., Mazri C.
   *[Mapping NaTech Research Gaps: A Systematic Review of Reviews](https://hal.science/hal-05711012v1)*, ESREL 2026, Braga, Portugal (2026)
@@ -13,7 +14,7 @@ Voir aussi mon profil sur [HAL](https://hal.science/search/index/?q=*&authIdHal_
 
 ---
 
-## Publications personnelles non revues par les pairs
+## Éditos personnels (non-revues par les pairs)
 
 - [[Étude des descriptions textuelles sur Hinge|Étude des descriptions textuelles sur Hinge et comparaison des genres chez les utilisateurs hétérosexuels (hommes / femmes)]] (en cours)
 - [[Les Radios président]]
