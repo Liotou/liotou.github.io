@@ -32,11 +32,27 @@ header.site-header {
   margin-bottom: 1.5rem;
 }
 
+.name-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
 header.site-header h1 {
   font-size: 2rem;
   font-weight: 700;
-  margin: 0 0 0.75rem;
+  margin: 0;
   text-align: center;
+}
+
+.avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
 }
 
 nav.site-nav {
@@ -76,25 +92,6 @@ section p {
 
 a {
   color: var(--accent);
-}
-
-.intro {
-  display: flex;
-  gap: 1.5rem;
-  align-items: flex-start;
-}
-
-.intro p {
-  margin: 0;
-  flex: 1;
-}
-
-.intro img {
-  width: 90px;
-  height: 90px;
-  border-radius: 50%;
-  object-fit: cover;
-  flex-shrink: 0;
 }
 
 ul.pub-list {
@@ -148,10 +145,5 @@ footer {
 @media (max-width: 480px) {
   header.site-header h1 {
     font-size: 1.6rem;
-  }
-  .intro {
-    flex-direction: column-reverse;
-    align-items: center;
-    text-align: center;
   }
 }
