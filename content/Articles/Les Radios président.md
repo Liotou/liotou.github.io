@@ -1,8 +1,8 @@
 ---
-temps: 12
+temps: 13
 publish: true
 ---
-Co-écrit avec mon vieil ami Théo Neil Clavel.
+Co-écrit avec mon vieil ami [Théo Neil Clavel](https://www.linkedin.com/in/theo-clavel/).
 
 Depuis le début de l'année 2026, une tendance émerge sur le YouTube francophone. Nombreux sont celles et ceux qui ont vu apparaître, sur leur fil d'actualité vidéo, des « radios » musicales qui marquent leur inscription temporelle et artistique dans une période présidentielle française.
 
