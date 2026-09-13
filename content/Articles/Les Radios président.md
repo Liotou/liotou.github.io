@@ -51,4 +51,4 @@ On pourrait également relire ce phénomène à la lumière de l'hantologie, cet
 Preuve en est que ce mouvement, qui comptait déjà quelques adeptes sous l'appellation « Giscard Punk » (que l'on peut généraliser en « Cassette Punk »), semble aujourd'hui prendre de l'ampleur. D'autant que l'année 2026 connaît un léger sursaut patriotique et républicain, porté par la Coupe du monde et le succès presque inespéré des deux films consacrés au Général De Gaulle.
 
 Mon épisode préféré de Radio Giscard :
-https://www.youtube.com/watch?v=2gPJTbPTCsg&list=RD2gPJTbPTCsg&start_radio=1
+![](https://www.youtube.com/watch?v=2gPJTbPTCsg&list=RD2gPJTbPTCsg&start_radio=1)
