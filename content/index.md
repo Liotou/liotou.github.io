@@ -6,11 +6,13 @@ temps: 10
 
 ![[profile.jpg|115]]
 
-Bonjour ! Je suis doctorant en sciences de gestion à l'Université Paris-Dauphine – PSL (DRM), en collaboration avec l'INERIS (Institut National de l'Environnement Industriel et des Risques), où je travaille sur les risques NaTech — accidents industriels déclenchés par des phénomènes naturels.
+Bonjour ! 
 
-## Thématiques de recherche
+Je suis doctorant en sciences de gestion à l'Université Paris-Dauphine – PSL (DRM), en collaboration avec l'INERIS (Institut National de l'Environnement Industriel et des Risques), où je travaille sur les risques NaTech (impact des aléas naturels sur les installations technologiques : industrielles et nucléaires).
 
-Mes travaux portent sur la gestion des risques industriels face aux aléas naturels, et sur la manière dont les organisations anticipent et réagissent aux accidents NaTech (Natural-Technological). Plus largement, je m'intéresse à la gouvernance du risque et à la sécurité des systèmes industriels à haut risque.
+Sur ce site, vous trouverez aussi bien mes publications scientifiques que des éditos plus personnels.
+
+Bonne lecture !
 
 ## Navigation
 
