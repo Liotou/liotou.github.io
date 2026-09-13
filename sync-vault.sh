@@ -1,12 +1,12 @@
 #!/bin/bash
-# Synchronise les notes marquées pour publication (dossier "Public" du vault
-# Obsidian) vers le dossier content/ de ce dépôt, avant commit + push.
+# Synchronise les notes marquées pour publication (dossier "95 - Dépôt public"
+# du vault Obsidian) vers le dossier content/ de ce dépôt, avant commit + push.
 #
 # Usage : ./sync-vault.sh
 
 set -euo pipefail
 
-VAULT_PUBLIC="$HOME/Obsidian Vault/Public"
+VAULT_PUBLIC="$HOME/Obsidian Vault/95 - Dépôt public"
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CONTENT_DIR="$REPO_DIR/content"
 

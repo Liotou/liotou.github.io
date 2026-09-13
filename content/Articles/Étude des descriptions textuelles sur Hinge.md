@@ -11,4 +11,4 @@ Elliot Quiriconi — en cours de rédaction, 2026
 
 Texte de section.
 
-[[../index|← Retour à l'accueil]]
+[[index|← Retour à l'accueil]]
