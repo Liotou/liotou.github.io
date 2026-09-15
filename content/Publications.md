@@ -17,7 +17,6 @@ Voir aussi mon profil sur [HAL](https://hal.science/search/index/?q=*&authIdHal_
 
 ## Éditos personnels (non-revues par les pairs)
 
-- [Étude des descriptions textuelles sur Hinge et comparaison des genres chez les utilisateurs hétérosexuels — hommes / femmes](Étude%20des%20descriptions%20textuelles%20sur%20Hinge.md) (en cours)
 - [[Les Radios président]]
 
 [[index|← Retour à l'accueil]]
