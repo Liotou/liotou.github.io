@@ -12,7 +12,7 @@ Je suis doctorant en sciences de gestion à l'Université Paris-Dauphine – PSL
 
 Sur ce site, vous trouverez aussi bien mes publications scientifiques que des éditos plus personnels.
 
-Bonne lecture !
+Bonne naviguation !
 
 ## Navigation
 
